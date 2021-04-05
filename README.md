@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a SwiftUI version of my radio app**
 
-- 🌱 I’m currently learning **SwiftUI and Catalyst**
+- 🌱 I’m currently learning **SwiftUI and Scala**
 
 - 📝 Occasional articles on various subjects at [https://pemungkah.com](https://pemungkah.com)
 
-- 💬 Ask me about **Perl (especially the debugger)**
+- 💬 Ask me about **Perl (especially the debugger) and my custom Vim setup**
 
 - 📫 How to reach me **joe.mcmahon at gmail.com**
 
