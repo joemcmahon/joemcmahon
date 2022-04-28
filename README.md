@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joe McMahon</h1>
-<h3 align="center">Mostly Perl and Swift, with side trips to Python, Go, and Docker</h3>
+<h3 align="center">Mostly Perl and Swift, with side trips to Python, Go, Scala, and Docker. </h3>
 
 - 🔭 I’m currently working on **a SwiftUI version of my radio app**
 
-- 🌱 I’m currently learning **SwiftUI and Scala**
+- 🌱 I’m currently learning **SwiftUI and Scala**; hoping to open-source a wrapper for `deequ`.
 
 - 📝 Occasional articles on various subjects at [https://pemungkah.com](https://pemungkah.com)
 
