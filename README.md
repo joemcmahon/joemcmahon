@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a SwiftUI version of my radio app**
 
-- 🌱 I’m currently learning **SwiftUI and Scala**; hoping to open-source a wrapper for `deequ`.
+- 🌱 I’m currently learning **SwiftUI**; hoping to open-source a wrapper for `deequ`.
 
 - 📝 Occasional articles on various subjects at [https://pemungkah.com](https://pemungkah.com)
 
-- 💬 Ask me about **Perl (especially the debugger) and my custom Vim setup**
+- 💬 Ask me about **Perl (especially the debugger), my custom Vim setup, and deequ**
 
 - 📫 How to reach me **joe.mcmahon at gmail.com**
 
