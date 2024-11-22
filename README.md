@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joe McMahon</h1>
-<h3 align="center">Mostly Perl and Swift, with side trips to Python, Go, Scala, and Docker. </h3>
+<h3 align="center">Now primarily Swift; still doing utility work in Perl, Python, Node, Go, and Docker. </h3>
 
 - 🔭 I’m currently working on **a SwiftUI version of my radio app**
 
-- 🌱 I’m currently learning **SwiftUI**; hoping to open-source a wrapper for `deequ`.
+- 🌱 I’m currently learning **SwiftUI** and have several app projects on the fire.
 
 - 📝 Occasional articles on various subjects at [https://pemungkah.com](https://pemungkah.com)
 
-- 💬 Ask me about **Perl (especially the debugger), my custom Vim setup, and deequ**
+- 💬 Ask me about **Perl (especially the debugger; I recently fixed a 30-year-old bug in it!)**
 
 - 📫 How to reach me **joe.mcmahon at gmail.com**
 
